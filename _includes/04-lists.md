@@ -1,0 +1,9 @@
+- Sports
+  - Badminton
+  - Tennis
+  - Table Tennis
+- Reading
+- Gaming
+  - Mobile Legends
+  - Brawl Stars
+  - League of Legends
